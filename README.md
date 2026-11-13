@@ -32,7 +32,7 @@ I work at the intersection of software engineering and AI, orchestrating special
 
 ## 📈 Selected impact
 
-- Helped improve a team's delivery cadence from **twice a month to twice a week** through workflow and CI/CD improvements.
+- Helped improve a team's delivery cadence from **twice a month to daily** through workflow and CI/CD improvements.
 - Reduced average API response time from **10 seconds to 1 second** through database optimization and leaner responses.
 - Led the unification of two service platforms while maintaining support for both applications.
 
